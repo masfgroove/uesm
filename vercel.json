@@ -1,0 +1,9 @@
+vercd {
+
+    "rewrites": [
+
+        { "source": "/(.*)", "destination": "/api/app" }
+
+    ]
+
+}
